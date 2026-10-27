@@ -1,0 +1,35 @@
+{
+  "site": {
+    "favicon": "assets/favicon.svg"
+  },
+  "profile": {
+    "name": "Your Name",
+    "primary_title": "Your Learning-Stage Title",
+    "summary": "I am learning through real projects and can explain the questions, steps, and findings behind my work.",
+    "headshot": "images/profile-placeholder.svg",
+    "headshot_alt": "Optional profile image placeholder",
+    "cv_label": "Download CV",
+    "cv_url": "",
+    "linkedin_url": ""
+  },
+  "about": {
+    "page_title": "About Me",
+    "heading": "What I am learning",
+    "summary": "I am building practical skills through projects I can explain. This space is for my interests, tools I have used, and what I am learning.",
+    "bio_paragraphs": [],
+    "skills_heading": "Skills and tools",
+    "skills_intro": "",
+    "skill_groups": [],
+    "journey_heading": "My journey",
+    "journey_intro": "",
+    "journey": []
+  },
+  "projects": [],
+  "samples": [],
+  "insights": [],
+  "contact": {
+    "email": "",
+    "github_url": ""
+  }
+}
+
